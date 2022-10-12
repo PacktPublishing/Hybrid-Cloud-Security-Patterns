@@ -1,10 +1,10 @@
 # Patterns for implementing identity and access management for cloud users
 
 ## Self Registration	
-* AWS provides sign up of free accounts and consolidated billing option to register for the cloud services - aws.amazon.com/free. 
+* AWS provides sign up of free accounts and consolidated billing option to register for the cloud services - https://aws.amazon.com/free 
 * Azure free account and “Pay as you go“ sign up  https://azure.microsoft.com/en-in/free/
 * GCP free trial registration link - https://console.cloud.google.com/freetrial
-( IBM Cloud free account - https://www.ibm.com/in-en/cloud/free 
+* IBM Cloud free account - https://www.ibm.com/in-en/cloud/free 
 
 ## Federation	
 * AWS supports federating enterprise IDs of the workforce to be part AWS accounts and business applications:https://aws.amazon.com/identity/federation/ 
