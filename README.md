@@ -45,3 +45,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Sreekanth Iyer**
 is a thought leader in architecture with over 25 years of experience building enterprise solutions across multiple industries. He is currently working as a Principal Architect with Apptio. Prior to this role, he worked as an Executive IT Architect at IBM. He has served as a trusted advisor on digital transformation strategy and journey to cloud for many enterprise clients. He is an expert in cloud engineering, security, complex integration, and app modernization. He is an IBM Master Inventor with more than 60 patents. He has built strong software engineering teams and made outstanding contributions to create security reference architectures. When he is not working, he enjoys music and his time with family and friends.
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803233581">https://packt.link/free-ebook/9781803233581 </a> </p>
